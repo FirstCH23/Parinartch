@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1741878971,
+	"version": 1741884180,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -44,6 +44,8 @@
 		"images/sprite-sheet0.png",
 		"images/close-sheet0.png",
 		"images/close2-sheet0.png",
+		"media/loop-7-145285.ogg",
+		"media/laser-312360.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
